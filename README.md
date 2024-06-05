@@ -146,8 +146,8 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 ![wsol](readme/wsol.png)
 
 ## Contact
-
-[![](devenyedunn934@gmail.com)
+Mail me!
+devenyedunn934@gmail.com
 
 - If you want to leave a tip, you can send it to the following address:
   `GEbavSTP169rsKrwW7JZk4NX473TWAjLqK271Q17mtig`
