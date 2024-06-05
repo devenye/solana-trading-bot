@@ -125,7 +125,7 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
 [![](https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square)](https://discord.gg/xYUETCA2aP)
 
 - If you want to leave a tip, you can send it to the following address:
-`7gm6BPQrSBaTAYaJheuRevBNXcmKsgbkfBCVSjBnt9aP`
+`GEbavSTP169rsKrwW7JZk4NX473TWAjLqK271Q17mtig`
 
 - If you need custom features or assistance, feel free to contact the admin team on discord for dedicated support.
 
